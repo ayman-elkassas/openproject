@@ -1,4 +1,4 @@
-# OpenProject
+# OpenProject is a team managment project with offline mode like (slack but on primume)
 [<img src="https://travis-ci.org/opf/openproject.svg?branch=dev" alt="Build Status" />](https://travis-ci.org/opf/openproject)
 [![Code Climate](https://codeclimate.com/github/opf/openproject/badges/gpa.svg)](https://codeclimate.com/github/opf/openproject)
 
