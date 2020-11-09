@@ -1,5 +1,6 @@
 # OpenProject is a team managment project with offline mode like (slack but on primume)
 ### install using https://bitnami.com/stack/openproject/installer
+### windows installer https://bitnami.com/stacks/installer
 ### with playlist https://www.youtube.com/playlist?list=PLYf4Vz9V1ESpffmoVHt1SmAaY1XpdKCv1
 [<img src="https://travis-ci.org/opf/openproject.svg?branch=dev" alt="Build Status" />](https://travis-ci.org/opf/openproject)
 [![Code Climate](https://codeclimate.com/github/opf/openproject/badges/gpa.svg)](https://codeclimate.com/github/opf/openproject)
